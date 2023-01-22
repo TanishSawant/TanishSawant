@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanish Sawant</h1>
-<h3 align="center">A Pre-Final Year Computer Engineering Student at VJTI, Mumbai.</h3>&nbsp;&nbsp;
+<h3 align="center">A Final Year Computer Engineering Student at VJTI, Mumbai.</h3>&nbsp;&nbsp;
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TanishSawant&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="TanishSawant" /> </p>&nbsp;&nbsp;
 
